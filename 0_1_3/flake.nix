@@ -11,6 +11,7 @@
   inputs.src-eris_utils-0_1_3.ref   = "0.1.3";
   inputs.src-eris_utils-0_1_3.owner = "~ehmry";
   inputs.src-eris_utils-0_1_3.repo  = "eris_utils";
+  inputs.src-eris_utils-0_1_3.dir   = "";
   inputs.src-eris_utils-0_1_3.type  = "sourcehut";
   
   inputs."eris".owner = "nim-nix-pkgs";
